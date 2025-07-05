@@ -1,5 +1,6 @@
 const bot1 = require('./AlphaBot.js');
-const bot2 = require('./SmartBotMk4.js');
+const bot2 = require('./AlphaBot_v1.js');
+// const bot2 = require('./SmartBotMk4.js');
 const fs = require('node:fs');
 
 

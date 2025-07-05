@@ -1,800 +1,800 @@
 Game 1 results:
 Winner: p1
-Score: 1003 - 534
+Score: 1000 - 959
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 514
+Score: 1000 - 882
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 512
+Score: 1001 - 804
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 503
+Winner: p2
+Score: 979 - 1000
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 529
+Winner: p2
+Score: 976 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 490
+Score: 1000 - 932
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 534
+Score: 1000 - 915
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 444
+Score: 1000 - 991
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 487
+Score: 1000 - 867
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 489
+Score: 1000 - 913
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 547
+Score: 1001 - 894
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 464
+Score: 1000 - 811
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 471
+Score: 1000 - 937
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 549
+Score: 1002 - 933
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 525
+Winner: p2
+Score: 960 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 566
+Score: 1000 - 858
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 491
+Score: 1000 - 998
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 564
+Score: 1000 - 933
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 521
+Score: 1001 - 932
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 525
+Score: 1000 - 981
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 531
+Score: 1000 - 958
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 508
+Score: 1000 - 909
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 560
+Score: 1000 - 933
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 559
+Score: 1001 - 993
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 580
+Score: 1000 - 870
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 495
+Score: 1002 - 985
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 491
+Score: 1000 - 936
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 499
+Score: 1002 - 854
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 569
+Score: 1000 - 946
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 489
+Score: 1000 - 843
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 522
+Score: 1001 - 974
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 491
+Score: 1000 - 944
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 493
+Score: 1000 - 939
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 566
+Score: 1001 - 919
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 522
+Score: 1001 - 836
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 484
+Score: 1001 - 908
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 456
+Score: 1000 - 853
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 501
+Score: 1000 - 944
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 456
+Score: 1002 - 939
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 502
+Score: 1002 - 956
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 511
+Score: 1001 - 961
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 517
+Score: 1001 - 908
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 529
+Score: 1002 - 989
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 572
+Score: 1000 - 976
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 533
+Score: 1000 - 905
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 485
+Score: 1001 - 908
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 473
+Score: 1000 - 942
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 458
+Score: 1001 - 977
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1001 - 558
+Winner: p2
+Score: 976 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 523
+Score: 1000 - 930
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 580
+Score: 1000 - 941
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 548
+Score: 1000 - 949
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 519
+Score: 1002 - 983
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 550
+Score: 1000 - 972
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 533
+Score: 1000 - 922
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 610
+Winner: p2
+Score: 916 - 1001
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 577
+Winner: p2
+Score: 996 - 1001
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 551
+Score: 1001 - 983
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 529
+Score: 1000 - 894
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 477
+Score: 1000 - 892
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 472
+Score: 1000 - 967
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 576
+Score: 1001 - 934
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 531
+Score: 1000 - 933
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 487
+Score: 1001 - 970
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 519
+Score: 1000 - 884
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 542
+Score: 1000 - 909
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 497
+Score: 1000 - 983
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 552
+Score: 1000 - 939
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 529
+Score: 1001 - 978
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 527
+Score: 1000 - 964
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 495
+Score: 1001 - 912
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 536
+Score: 1001 - 963
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 499
+Score: 1000 - 880
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 508
+Score: 1001 - 976
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 560
+Score: 1001 - 904
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 588
+Score: 1000 - 914
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 494
+Score: 1000 - 998
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 561
+Score: 1000 - 910
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 443
+Score: 1000 - 889
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 569
+Score: 1000 - 889
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 493
+Score: 1000 - 914
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 636
+Winner: p2
+Score: 972 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 490
+Score: 1000 - 947
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 537
+Score: 1000 - 933
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 462
+Score: 1000 - 945
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 473
+Score: 1000 - 939
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 507
+Score: 1002 - 941
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 518
+Score: 1001 - 893
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 489
+Score: 1001 - 955
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 582
+Score: 1000 - 850
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 491
+Score: 1000 - 946
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 499
+Score: 1001 - 957
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 516
+Score: 1002 - 950
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 513
+Score: 1001 - 891
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 492
+Score: 1000 - 854
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 527
+Score: 1000 - 898
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 510
+Score: 1001 - 888
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 467
+Score: 1000 - 946
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 456
+Score: 1000 - 904
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 534
+Score: 1001 - 921
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 524
+Score: 1000 - 905
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1001 - 574
+Winner: p2
+Score: 993 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 558
+Score: 1000 - 921
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 531
+Score: 1000 - 945
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 523
+Score: 1000 - 877
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 564
+Score: 1000 - 926
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1004 - 505
+Winner: p2
+Score: 993 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 520
+Score: 1001 - 905
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 582
+Score: 1000 - 910
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 511
+Score: 1002 - 940
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 513
+Score: 1000 - 898
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 509
+Score: 1000 - 971
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 514
+Score: 1000 - 984
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 580
+Score: 1000 - 930
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 545
+Score: 1000 - 967
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 572
+Score: 1000 - 858
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 565
+Score: 1000 - 936
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 555
+Score: 1000 - 939
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 520
+Score: 1000 - 980
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 524
+Winner: p2
+Score: 995 - 1001
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 513
+Score: 1002 - 870
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 478
+Score: 1000 - 848
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 530
+Score: 1000 - 895
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 557
+Score: 1000 - 880
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 533
+Score: 1000 - 859
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 521
+Score: 1000 - 980
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 624
+Score: 1000 - 890
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 520
+Score: 1000 - 907
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 522
+Score: 1000 - 982
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 568
+Score: 1000 - 943
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 568
+Score: 1000 - 881
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 514
+Score: 1001 - 881
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 490
+Score: 1001 - 936
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 534
+Score: 1000 - 911
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 496
+Score: 1001 - 881
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 477
+Score: 1002 - 924
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 486
+Score: 1000 - 869
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1001 - 546
+Winner: p2
+Score: 970 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 540
+Score: 1000 - 988
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1004 - 584
+Winner: p2
+Score: 950 - 1000
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 532
+Winner: p2
+Score: 960 - 1002
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 479
+Score: 1000 - 940
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 513
+Score: 1001 - 966
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 492
+Score: 1000 - 930
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 548
+Score: 1001 - 959
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 554
+Score: 1001 - 984
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 513
+Score: 1000 - 871
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 549
+Score: 1001 - 870
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 564
+Winner: p2
+Score: 993 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 538
+Score: 1000 - 899
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 511
+Score: 1000 - 860
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 510
+Score: 1001 - 926
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 600
+Score: 1000 - 847
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 486
+Score: 1000 - 937
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 578
+Score: 1000 - 900
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 575
+Score: 1000 - 928
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 502
+Score: 1001 - 952
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 536
+Score: 1000 - 911
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 536
+Score: 1000 - 861
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 532
+Score: 1000 - 970
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 549
+Score: 1001 - 894
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 559
+Score: 1002 - 931
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 520
+Score: 1001 - 971
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 501
+Score: 1000 - 917
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 515
+Score: 1002 - 962
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 499
+Score: 1002 - 891
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 561
+Score: 1000 - 955
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 483
+Score: 1000 - 951
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 573
+Score: 1000 - 858
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 510
+Score: 1002 - 937
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 531
+Score: 1002 - 963
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1004 - 552
+Score: 1000 - 968
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1003 - 525
+Score: 1000 - 966
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 547
+Score: 1001 - 959
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 520
+Winner: p2
+Score: 929 - 1000
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1001 - 532
+Winner: p2
+Score: 981 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 548
+Score: 1000 - 908
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 456
+Score: 1000 - 875
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 511
+Score: 1001 - 879
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 503
+Score: 1000 - 876
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 511
+Score: 1000 - 955
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 551
+Score: 1002 - 967
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 577
+Score: 1000 - 931
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1001 - 596
+Winner: p2
+Score: 929 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1001 - 461
+Score: 1000 - 913
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 533
+Score: 1000 - 938
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 433
+Score: 1000 - 970
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 531
+Score: 1001 - 967
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 520
+Score: 1000 - 962
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 497
+Winner: p2
+Score: 964 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 512
+Score: 1001 - 860
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1002 - 465
+Score: 1000 - 932
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 506
+Score: 1001 - 961
 Reason: score
 Game 1 results:
-Winner: p1
-Score: 1000 - 497
+Winner: p2
+Score: 994 - 1000
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 566
+Score: 1002 - 922
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 535
+Score: 1000 - 961
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 485
+Score: 1000 - 993
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 466
+Score: 1000 - 901
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 462
+Score: 1001 - 967
 Reason: score
 Game 1 results:
 Winner: p1
-Score: 1000 - 516
+Score: 1000 - 843
 Reason: score
