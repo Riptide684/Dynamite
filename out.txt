@@ -1,0 +1,800 @@
+Game 1 results:
+Winner: p1
+Score: 1003 - 534
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 514
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 512
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 503
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 529
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 490
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 534
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 444
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 487
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 489
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 547
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 464
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 471
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 549
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 525
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 566
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 491
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 564
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 521
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 525
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 531
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 508
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 560
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 559
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 580
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 495
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 491
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 499
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 569
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 489
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 522
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 491
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 493
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 566
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 522
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 484
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 456
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 501
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 456
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 502
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 511
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 517
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 529
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 572
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 533
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 485
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 473
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 458
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 558
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 523
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 580
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 548
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 519
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 550
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 533
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 610
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 577
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 551
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 529
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 477
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 472
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 576
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 531
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 487
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 519
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 542
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 497
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 552
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 529
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 527
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 495
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 536
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 499
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 508
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 560
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 588
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 494
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 561
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 443
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 569
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 493
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 636
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 490
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 537
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 462
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 473
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 507
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 518
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 489
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 582
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 491
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 499
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 516
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 513
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 492
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 527
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 510
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 467
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 456
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 534
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 524
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 574
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 558
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 531
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 523
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 564
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 505
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 520
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 582
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 511
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 513
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 509
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 514
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 580
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 545
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 572
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 565
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 555
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 520
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 524
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 513
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 478
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 530
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 557
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 533
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 521
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 624
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 520
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 522
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 568
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 568
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 514
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 490
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 534
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 496
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 477
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 486
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 546
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 540
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 584
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 532
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 479
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 513
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 492
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 548
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 554
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 513
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 549
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 564
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 538
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 511
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 510
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 600
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 486
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 578
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 575
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 502
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 536
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 536
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 532
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 549
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 559
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 520
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 501
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 515
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 499
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 561
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 483
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 573
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 510
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 531
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1004 - 552
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1003 - 525
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 547
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 520
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 532
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 548
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 456
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 511
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 503
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 511
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 551
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 577
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 596
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1001 - 461
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 533
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 433
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 531
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 520
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 497
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 512
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1002 - 465
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 506
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 497
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 566
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 535
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 485
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 466
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 462
+Reason: score
+Game 1 results:
+Winner: p1
+Score: 1000 - 516
+Reason: score
